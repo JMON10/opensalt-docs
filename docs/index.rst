@@ -3020,22 +3020,22 @@ New in OpenSALT 2.3 is the ability to clone a framework directly. This is used i
 7.6 Mirroring Frameworks
 New in OpenSALT is the ability to mirror public frameworks in external servers to OpenSALT using the Case API. Credentialed users can add, delete, and edit mirrored frameworks within the "Manage Mirrors" function. 
 
-.. image:: static/mirror 1.png
+.. image:: static/mirror\ 1.png
 
 Credentialed users will see the list of mirrored servers, the frameworks mirrored within them, and their status. Options to add a new framework, as well as edit or delete an existing framework are also displayed. 
 
-.. image:: static/mirror 2.png
+.. image:: static/mirror\ 2.png
 
 Editing an existing mirrored server;
-.. image:: static/mirror 3.png
+.. image:: static/mirror\ 3.png
 
 Viewing list of Frameworks within an external server; 
-.. image:: static/mirror 4.png
+.. image:: static/mirror\ 4.png
 
 Adding a new server to be mirrored;
-.. image:: static/mirror 5.png
+.. image:: static/mirror\ 5.png
 
 Adding a single framework to be mirrored;
-.. image:: static/mirror 6.png
+.. image:: static/mirror\ 6.png
 
 
